@@ -28,8 +28,8 @@
 
     #contact
         Demander un devis
-    </a>
-</header>
+
+   </header>
 
 <section id="engagement">
     <h2>Notre engagement</h2>
